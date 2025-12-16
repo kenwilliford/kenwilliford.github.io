@@ -2,96 +2,167 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Kenneth Hart Williford
+    - name: Affiliation
+      value: Blue Marble Space Institute of Science
+    - name: Email
+      value: ken@bmsis.org
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Professional Certificate, Data Science and Analytics
+      institution: Massachusetts Institute of Technology, Cambridge, MA
+      year: 2024
+    - title: Ph.D., Earth and Space Sciences (certificate in Astrobiology)
+      institution: University of Washington, Seattle, WA
+      year: 2007
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Dissertation: Biogeochemistry of the Triassic–Jurassic boundary"
+    - title: M.S., Geological Sciences
+      institution: University of Washington, Seattle, WA
+      year: 2000
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis: Strontium/calcium thermometry in the Caribbean reef coral Siderastrea siderea"
+    - title: B.S., Natural Resources, cum laude
+      institution: University of the South, Sewanee, TN
+      year: 1998
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Scientist
+      institution: Blue Marble Space Institute of Science
+      year: 2021-present
+    - title: Co-Investigator, SHERLOC instrument
+      institution: NASA Mars 2020 rover mission
+      year: 2014-present
+    - title: Deputy Project Scientist
+      institution: NASA Mars 2020 rover mission
+      year: 2014-2021
+    - title: Visiting Associate, Division of Geological and Planetary Sciences
+      institution: California Institute of Technology, Pasadena, CA
+      year: 2013-2021
+    - title: Founding Director, JPL Astrobiogeochemistry Laboratory (abcLab)
+      institution: Jet Propulsion Laboratory, Pasadena, CA
+      year: 2012-2021
+    - title: Research Scientist
+      institution: Jet Propulsion Laboratory, Pasadena, CA
+      year: 2012-2021
+    - title: Strategic Surface Sampling Scientist
+      institution: NASA Mars Science Laboratory mission
+      year: 2013-2014
+    - title: Collaborator, Sample Analysis at Mars instrument
+      institution: NASA Mars Science Laboratory mission
+      year: 2014-2016
+    - title: Science Team Member
+      institution: NASA Mars Science Laboratory mission
+      year: 2013-2016
+    - title: Research Associate
+      institution: Dept of Geoscience and Astrobiology Research Consortium, University of Wisconsin, Madison, WI
+      year: 2010-2012
+    - title: Research Associate
+      institution: Western Australian Organic and Isotope Geochemistry Centre, Dept of Chemistry, Curtin University, Perth, Western Australia
+      year: 2007-2009
+    - title: NSF IGERT Fellow
+      institution: University of Washington Astrobiology Program
+      year: 2005-2007
+    - title: Research Assistant
+      institution: Dept of Earth and Space Sciences, University of Washington
+      year: 2003-2005
+    - title: Information Architect
+      institution: Verisign Inc., Savannah, GA
+      year: 2002-2003
+    - title: Geologist
+      institution: Hall, Blake & Associates, Nashville, TN
+      year: 2001
+    - title: Earth science, life science and math teacher
+      institution: Good Hope School, St. Croix, USVI
+      year: 2000-2001
+    - title: Teaching Assistant
+      institution: Dept of Geological Sciences, University of Washington
+      year: 1998-2000
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Earth science, life science and mathematics
+      institution: Good Hope School, St. Croix, USVI
+      year: 2000-2001
+    - title: Teaching Assistant
+      institution: University of Washington
+      year: 1998-2000
+      description:
+        - Geobiology (first two offerings)
+        - Invertebrate Paleontology (x2)
+        - Dinosaurs
+        - Introduction to Geology
 
-- title: Honors and Awards
+- title: Student Supervision
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Emilia Hernandez, Ph.D.
+      institution: University of California Davis
+      year: 2019-2023
+    - title: Kelsey Moore, Ph.D.
+      institution: Massachusetts Institute of Technology
+      year: 2017-2020
+    - title: Jeffery Osterhout, M.S./Ph.D.
+      institution: University of Cincinnati / UCLA
+      year: 2014-2021
+    - title: Adam Hoffman, Ph.D. candidate
+      institution: University of California Riverside
+      year: 2013-present
+    - title: Joyce Yager, Ph.D.
+      institution: University of Southern California
+      year: 2017-2018
+    - title: Ashley Berg, Ph.D.
+      institution: University of Tennessee
+      year: 2016-2018
+    - title: Katrine Hansen, Ph.D. candidate
+      institution: University of Copenhagen
+      year: 2014-2016
+    - title: Kari Finstad, Ph.D. candidate
+      institution: University of California, Berkeley
+      year: 2015
+    - title: Kira Lorber, Ph.D. candidate
+      institution: University of Cincinnati
+      year: 2014
+    - title: Salem Aboglila, Ph.D.
+      institution: Dept of Applied Chemistry, Curtin University
+      year: 2008-2009
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Professional Societies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Geological Society of America (2005–present)
+    - American Geophysical Union (2011–present)
+    - Geochemical Society (2011–present)
+
+- title: Selected Outreach and Service
+  type: time_table
+  contents:
+    - title: Certified Hospice Volunteer
+      institution: Providence Hospice, Seattle
+      year: 2024
+    - title: NASA Infiniscope
+      institution: Educating LAUSD teachers in Earth and Planetary Science
+      year: 2020
+    - title: Von Karman Lecture
+      institution: "Mars 2020, or There and Back Again"
+      year: 2017
+    - title: Technical advisory board
+      institution: Boundaries of Life Initiative, Templeton Foundation
+      year: 2015-present
+    - title: Editorial Board
+      institution: Geobiology
+      year: 2014-present
+    - title: Imagine Mars
+      institution: 6 week NASA/NEA program with Akira Toki Middle School
+      year: 2011
+    - title: Discover Smoke Farm
+      institution: 48h biodiversity event including BioBlitz for young students
+      year: 2007
+    - title: Project AstroBio
+      institution: Astrobiology-themed outreach with Seattle school teachers
+      year: 2004-2007
