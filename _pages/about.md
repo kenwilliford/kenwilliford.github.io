@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research spans organic and stable isotope geochemistry, geology, and astrobiology, with a recent focus on the [Mars 2020 Perseverance rover](https://mars.nasa.gov/mars2020/) mission. I am motivated by a desire to understand the fundamental nature of life in the universe, and in general I seek signs of life and environmental evolution in ancient planetary materials. What is life? Where is life? How have living and non-living systems evolved together? These questions lead me to rocks that could preserve ancient habitats and life on Mars, some of the earliest records of life on Earth, and times of times of great change. 
+My research spans organic and stable isotope geochemistry, geology, and astrobiology, with a recent focus on the [Mars 2020 Perseverance rover](https://mars.nasa.gov/mars2020/) mission. I am motivated by a desire to understand the fundamental nature of life in the universe, and in general I seek signs of life and environmental evolution in ancient planetary materials. What is life? Where is life? How have living and non-living systems evolved together? These questions lead me to rocks that could preserve ancient habitats and life on Mars, some of the earliest records of life on Earth, and times of times of great change on both planets. 
 
 <!-- Add more details about your work, publications, or interests below -->
