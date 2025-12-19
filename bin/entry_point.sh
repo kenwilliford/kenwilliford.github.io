@@ -21,6 +21,8 @@ manage_gemfile_lock() {
 
 start_jekyll() {
     manage_gemfile_lock
+    # Reinstall gems if Gemfile.lock was removed (needed for git-sourced gems)
+    bundle check || bundle install
     bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling &
 }
 
