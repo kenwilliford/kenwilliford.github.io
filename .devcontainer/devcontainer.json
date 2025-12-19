@@ -5,7 +5,8 @@
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
       "packages": "imagemagick,inotify-tools"
-    }
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {}
   },
   // Install gems once when container is created
   "postCreateCommand": "bundle install",
